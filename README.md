@@ -4,7 +4,7 @@
 
 **課程網頁**：https://github.com/HungHuaTien/Thinking-II/
 
-**講義下載**：
+**講義下載**：https://reurl.cc/kaNNLL
 
 **Line群組**：https://line.me/ti/g/DGMjTFrIIK
 
