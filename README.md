@@ -14,4 +14,5 @@
 
 - **課程進度**：課程綱要 ＋入門概論-緒論
 - **電腦報修Apps**：http://cc.web.shu.edu.tw/shuapp/ (若你的電腦有問題，請下載學校的Apps，直接填單讓學校處理。)
-
+- **期初問卷調查**: https://forms.gle/oAkSdXgDEH28ZwiM9 （請同學填寫問卷）
+  
