@@ -8,7 +8,9 @@
 
 **Line群組**：https://line.me/ti/g/DGMjTFrIIK
 
-**MSTeams廣播**: https://teams.microsoft.com/l/team/19%3akuwy3CgJSXIu2GDj3ffh7BEACXn1TsMBt6Hv_Fc8eGU1%40thread.tacv2/conversations?groupId=31c7f807-8b46-405a-80b8-6e75d9aeae60&tenantId=4a28fc97-b766-4520-8a32-79999f14dfcb (密碼:cchmj7j)
+**MSTeams廣播**: 
+https://teams.microsoft.com/l/team/19%3akuwy3CgJSXIu2GDj3ffh7BEACXn1TsMBt6Hv_Fc8eGU1%40thread.tacv2/conversations?groupId=31c7f807-8b46-405a-80b8-6e75d9aeae60&tenantId=4a28fc97-b766-4520-8a32-79999f14dfcb
+(密碼:cchmj7j)
 
 ## 課程公告
 
