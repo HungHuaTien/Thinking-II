@@ -1,6 +1,6 @@
 # Thinking-II
 
-**電視一乙運算思維與程式設計**
+## 電視一乙運算思維與程式設計
 
 **課程網頁**：https://github.com/HungHuaTien/Thinking-II/
 
