@@ -14,7 +14,10 @@
 
 - **課程進度**：Unit 2 Python整合開發環境
 - **作業上傳連結**:請務必填寫表單 https://forms.gle/HUdVjcN9RYuis8aR7
-- **MSTeams連結**: https://teams.microsoft.com/l/meetup-join/19%3akuwy3CgJSXIu2GDj3ffh7BEACXn1TsMBt6Hv_Fc8eGU1%40thread.tacv2/1694948594589?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+- **上課錄影**：
+  -  https://youtu.be/0iglkgyNCUA
+  -  https://youtu.be/klShN1F_UtE
+
 
 **【今天的作業】**
 
