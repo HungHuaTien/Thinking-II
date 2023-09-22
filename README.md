@@ -17,6 +17,7 @@
 - **上課錄影**：
   -  https://youtu.be/0iglkgyNCUA
   -  https://youtu.be/klShN1F_UtE
+  -  [作業操作錄影](https://youtu.be/ZIUB3fIm3Ks)
 
 
 **【今天的作業】**
