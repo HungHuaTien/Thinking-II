@@ -16,8 +16,8 @@
 - **本週作業** : Unit3 做中學
 - **課程錄影**:
   - https://www.youtube.com/watch?v=tM0b_6XhbmA (作業繳交操做)
-- **MS Teams連結**:https://teams.microsoft.com/l/meetup-join/19%3akuwy3CgJSXIu2GDj3ffh7BEACXn1TsMBt6Hv_Fc8eGU1%40thread.tacv2/1696112405187?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
-
+  - https://youtu.be/pO003-JKYl4
+  - https://youtu.be/qno9DZkRAtk
 
 ### Week 3 2023/09/28(五)
 
