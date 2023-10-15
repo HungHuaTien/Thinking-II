@@ -10,6 +10,12 @@
 
 ## 課程公告
 
+### Week 6 2023/10/20(五)
+
+- **課程進度**：Unit4 文字資料 + Unit 5 布林資料
+- **本週作業**: Unit 4 做中學 ＋ Unit 5 做中學
+- **MS Teams**: https://teams.microsoft.com/l/meetup-join/19%3akuwy3CgJSXIu2GDj3ffh7BEACXn1TsMBt6Hv_Fc8eGU1%40thread.tacv2/1697334796318?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+
 ### Week 5 2023/10/13(五)
 
 - **課程進度**：Unit 4 文字資料
