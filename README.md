@@ -18,7 +18,7 @@
 - **本週作業** : Unit 5 做中學 + Unit 6 做中學
 - **課程錄影**:
   - https://youtu.be/zIqPou0yBCY
-  - ttps://youtu.be/7BhrEONaGWo
+  - https://youtu.be/7BhrEONaGWo
 
 ### Week 6 2023/10/20(五)
 
