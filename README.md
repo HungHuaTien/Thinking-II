@@ -16,7 +16,9 @@
 
 - **課程進度**：Unit 5 互動式輸入 + Unit 6 學運算思維與程式設計
 - **本週作業** : Unit 5 做中學 + Unit 6 做中學
-- **MS Teams:** https://teams.microsoft.com/l/meetup-join/19%3akuwy3CgJSXIu2GDj3ffh7BEACXn1TsMBt6Hv_Fc8eGU1%40thread.tacv2/1697887841804?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+- **課程錄影**:
+  - https://youtu.be/zIqPou0yBCY
+  - ttps://youtu.be/7BhrEONaGWo
 
 ### Week 6 2023/10/20(五)
 
