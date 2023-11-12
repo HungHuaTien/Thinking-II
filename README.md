@@ -10,13 +10,22 @@
 
 ## 課程公告
 
-期中考試在第十一週舉行，期中作業請在考試前(10:00)繳交。
+期中考試在第十一(11/24)週舉行，請記得期中作業要在考試前(10:00)繳交。 還沒有成功上傳你的Google Drive連結者，請補填表單https://forms.gle/HUdVjcN9RYuis8aR7 ， 否則即使你有寫作業，我改作業時看不到，就是0分。
+
+### Week 10 2023/11/17(五)
+
+**課程進度**：Unit 9 冒險遊戲
+**本週作業**: Unit 9 做中學
+**MS Teams**:
+https://teams.microsoft.com/l/meetup-join/19%3akuwy3CgJSXIu2GDj3ffh7BEACXn1TsMBt6Hv_Fc8eGU1%40thread.tacv2/1699827288130?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
 
 ### Week 9 2023/11/10(五)
 
 - **課程進度**：Unit 8 條件分支
 - **本週作業**: Unit 8 做中學
-- **MS Teams**:https://teams.microsoft.com/l/meetup-join/19%3akuwy3CgJSXIu2GDj3ffh7BEACXn1TsMBt6Hv_Fc8eGU1%40thread.tacv2/1698620576049?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+- **課程錄影**:
+  - https://youtu.be/T6IpmChvsoY
+  - https://youtu.be/n-7e9GT44wM
 
 ### Week 8 2023/11/03(五)
 
