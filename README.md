@@ -10,14 +10,23 @@
 
 ## 課程公告
 
-### Week 10 2023/12/01(五)
+### Week 13 2023/12/08(五)
+
+- **課程進度**：Unit 10 條件選擇 + Unit 11 資料結構
+- **本週作業**: Unit 10 ＋ Unit 11
+- **MS Teams**:
+  https://teams.microsoft.com/l/meetup-join/19%3akuwy3CgJSXIu2GDj3ffh7BEACXn1TsMBt6Hv_Fc8eGU1%40thread.tacv2/1701648241437?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+
+### Week 12 2023/12/01(五)
 
 請填寫期中問卷調查  https://forms.gle/SJKkpv8tLzzzVpAFA 
 
 - **課程進度**：Unit 10 條件選擇
 - **本週作業**: Unit 10 條件選擇
-- **MS Teams**:
-https://teams.microsoft.com/l/meetup-join/19%3akuwy3CgJSXIu2GDj3ffh7BEACXn1TsMBt6Hv_Fc8eGU1%40thread.tacv2/1701059590757?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+- **課程錄影**:
+  - https://youtu.be/RpkyMs291hU
+  - https://youtu.be/TmnUIx_T1Ng
+
 
 期中考試在第十一(11/24)週舉行，請記得期中作業要在考試前(10:00)繳交。 還沒有成功上傳你的Google Drive連結者，請補填表單https://forms.gle/HUdVjcN9RYuis8aR7 ， 否則即使你有寫作業，我改作業時看不到，就是0分。
 
