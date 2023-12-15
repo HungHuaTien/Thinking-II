@@ -10,6 +10,13 @@
 
 ## 課程公告
 
+### Week 14 2023/12/15(五)
+
+- **課程進度**：Unit 11 資料結構 + Unit 12 for迴圈
+- **本週作業**: Unit 11 + Unit 12
+- **課程錄影**:
+https://teams.microsoft.com/l/meetup-join/19%3akuwy3CgJSXIu2GDj3ffh7BEACXn1TsMBt6Hv_Fc8eGU1%40thread.tacv2/1702599941651?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+
 ### Week 13 2023/12/08(五)
 
 - **課程進度**：Unit 10 條件選擇 + Unit 11 資料結構
